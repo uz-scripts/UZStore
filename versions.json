@@ -1,10 +1,10 @@
 {
-  "uz_core": "0.8.2",
-  "uz_Multicharacter": "1.6.9",
+  "uz_core": "0.8.3",
+  "uz_Multicharacter": "1.7.0",
   "uz_DailyReward": "1.4.0",
   "uz_SecondHand": "1.1.0",
   "uz_JobSelector": "1.2.0",
-  "uz_SpawnSelector": "1.6.0",
+  "uz_SpawnSelector": "1.6.1",
   "uz_PlayerMenu": "1.0.0",
   "uz_PauseMenu": "0.9.5",
   "uz_garage": "2.2.5",
